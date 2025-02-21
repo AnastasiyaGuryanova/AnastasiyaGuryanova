@@ -8,7 +8,8 @@
 
 - ✨ Люблю разрабатывать удобные и красивые пользовательские интерфейсы.  
 - ⚛️ Основной стек: **React**, **JavaScript**, **TypeScript**, **Redux** (включая RTK Query), **MobX**, **Next.js**.  
-- 🎨 Забочусь о дизайне и UX, дружу с Figma и Adobe XD.  
+- 🎨 Забочусь о дизайне и UX, дружу с Figma и Adobe XD.
+- 🧪 Освоила тестирование фронтенд-приложений: пишу unit-, integration- и E2E-тесты с использованием Jest и React Testing Library.
 - 🔧 Постоянно учусь и осваиваю новые технологии.
 
 ---
@@ -32,6 +33,8 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="60" height="60" />
   &nbsp;
+  <!-- Инструменты тестирования --> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60" />
   <!-- Дополнительные библиотеки -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
   &nbsp;
@@ -60,6 +63,9 @@
 
 - **Стилизация**:  
   Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.
+
+- **Тестирование**:
+  Jest, React Testing Library, unit-тесты, integration-тесты, E2E-тесты, мокирование функций и модулей, snapshot-тесты.
 
 - **Сборка и инструменты разработки**:  
   Webpack, Vite, ESLint, Prettier, Babel.
