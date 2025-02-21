@@ -64,9 +64,9 @@
 - **Стилизация**:  
   Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.
 
-- **Тестирование**:
+- **Тестирование**:  
   Jest, React Testing Library, unit-тесты, integration-тесты, E2E-тесты, мокирование функций и модулей, snapshot-тесты.
-
+  
 - **Сборка и инструменты разработки**:  
   Webpack, Vite, ESLint, Prettier, Babel.
 
