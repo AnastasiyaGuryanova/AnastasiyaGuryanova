@@ -7,7 +7,7 @@
 ## О себе
 
 - ✨ Люблю разрабатывать удобные и красивые пользовательские интерфейсы.  
-- ⚛️ Основной стек: **React**, **JavaScript**, **TypeScript**, **Redux** (включая RTK Query), **MobX**, **Next.js**.  
+- ⚛️ Основной стек: React, JavaScript, TypeScript, Redux (включая RTK Query), MobX, Next.js с поддержкой Server-Side Rendering (SSR). 
 - 🎨 Забочусь о дизайне и UX, дружу с Figma и Adobe XD.
 - 🧪 Тестирование фронтенд-приложений: пишу unit-, integration- и E2E-тесты с использованием Jest и React Testing Library.
 - 🔧 Постоянно учусь и осваиваю новые технологии.
@@ -56,8 +56,8 @@
   HTML5, CSS3, JavaScript (ES6+), TypeScript.
 
 - **Фреймворки и библиотеки**:  
-  React, Redux (Redux Toolkit, RTK Query), Next.js, React Router, MobX.
-
+  React, Redux (Redux Toolkit, RTK Query), Next.js (включая Server-Side Rendering, App Router и серверные компоненты), React Router, MobX.
+  
 - **API и инструменты работы с данными**:  
   REST, Axios.
 
