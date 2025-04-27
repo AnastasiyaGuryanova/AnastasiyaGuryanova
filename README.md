@@ -48,6 +48,8 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" />
   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hapi/hapi-original.svg" alt="Hapi" width="60" height="60" />
+  &nbsp;
 </p>
 
 ---
@@ -55,7 +57,7 @@
 ### Полный список технологий:
 
 - **Frontend**:  
-  React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), MobX, React Router.
+  React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), MobX, React Router, Module Federation, Single SPA.
 
 - **Стилизация**:  
   Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.  
@@ -70,7 +72,7 @@
  Docker, Docker Compose, Nginx, GitLab CI/CD, Certbot (SSL), VPS setup, domain configuration.
 
 - **Инструменты разработки**:  
-  Webpack, Vite, ESLint, Prettier, Babel, Git.
+  Webpack (продвинутая настройка, SSR, микрофронтенды), Vite, ESLint, Prettier, Babel, Git, Hapi.
 
 - **Бэкенд (базово)**:  
   Node.js, Express, MongoDB.
