@@ -48,8 +48,6 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hapi/hapi-original.svg" alt="Hapi" width="60" height="60" />
-  &nbsp;
 </p>
 
 ---
