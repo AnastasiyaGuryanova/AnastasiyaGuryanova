@@ -1,82 +1,46 @@
 # Привет! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30px" />
 
-Я — фронтенд-разработчик с фокусом на **React** и навыками  **FrontOps**, которые помогают автоматизировать и ускорять доставку приложений в продакшен. Специализируюсь на создании удобных, производительных и безопасных веб-приложений.
-
----
-
 ## О себе
+Я — фронтенд-разработчик с фокусом на **React**, **TypeScript** и **Next.js**. Создаю производительные и удобные веб-приложения, уделяя внимание UX и оптимизации. Благодаря навыкам **FrontOps** (CI/CD, Docker, Nginx) я ускоряю доставку приложений в продакшен и эффективно взаимодействую с DevOps-командами. Постоянно учусь и внедряю лучшие практики, чтобы мои проекты были надежными и масштабируемыми.
 
-- ✨ Разрабатываю интуитивные интерфейсы, уделяя внимание UX и производительности.  
-- ⚛️ Основной стек: React, TypeScript, Redux, Next.js (включая SSR и App Router).
-- 🚀 Автоматизирую процессы сборки и деплоя с помощью CI/CD, Docker и GitLab CI, чтобы сократить время вывода продукта на рынок
-- 🔒 Обеспечиваю безопасность приложений с помощью HTTPS и автопродления SSL-сертификатов (Certbot)
-- 🧪 Пишу надёжные тесты (unit, integration, E2E) с Jest и React Testing Library.
-- 🤝 Эффективно взаимодействую с DevOps-командами благодаря пониманию инфраструктуры и процессов деплоя.
-- 🎯 Постоянно учусь и внедряю лучшие практики для оптимизации разработки.
+✨ **Моя цель**: создавать интерфейсы, которые радуют пользователей и решают бизнес-задачи.
 
 ---
 
-## Технологии, с которыми я работаю
+## Фронтенд-разработка
 
 <p align="center">
-  <!-- Языки и базовые вещи -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
-  &nbsp;
-  <!-- Frontend-библиотеки и фреймворки -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
-  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="60" height="60" />
-  &nbsp;
-  <!-- Инструменты тестирования --> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60" />
-  <!-- Дополнительные библиотеки -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="60" height="60" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
-  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" />
-  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60" />
 </p>
+
+Я специализируюсь на создании современных веб-приложений с использованием **React**, **TypeScript** и **Next.js**. Моя цель — интуитивные интерфейсы с акцентом на UX и производительность.
+
+- **Основной стек**: React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), React Router.
+- **Стилизация**: Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.
+- **Тестирование**: Jest, React Testing Library (unit, integration, E2E).
 
 ---
 
-### Полный список технологий:
+## FrontOps и дополнительные навыки
 
-- **Frontend**:  
-  React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), MobX, React Router, Module Federation, Single SPA.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
+</p>
 
-- **Стилизация**:  
-  Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.  
-  
-- **API и данные**:  
-  REST, Axios, RTK Query.
-
-- **Тестирование**:  
-  Jest, React Testing Library (unit, integration, E2E, snapshots, mocks).
-  
-- **FrontOps / DevOps**:  
- Docker, Docker Compose, Nginx, GitLab CI/CD, Certbot (SSL), VPS setup, domain configuration.
-
-- **Инструменты разработки**:  
-  Webpack (продвинутая настройка, SSR, микрофронтенды), Vite, ESLint, Prettier, Babel, Git, Hapi.
-
-- **Бэкенд (базово)**:  
-  Node.js, Express, MongoDB.
-
-- **Методологии**:  
-  Agile, Scrum
+- **FrontOps / DevOps**: Docker, GitLab CI/CD, Nginx, Certbot (SSL), VPS setup.
+- **Инструменты разработки**: Webpack, Vite, ESLint, Prettier, Git.
+- **Бэкенд (базово)**: Node.js, Express, MongoDB.
+- **Дополнительно**: Module Federation, Single SPA, MobX, Hapi.
+- **Методологии**: Agile, Scrum.
 
 ---
 
@@ -87,5 +51,4 @@
 
 ---
 
-
-> **Спасибо, что заглянул!** Буду рада, если мои проекты вдохновят тебя или помогут в работе. Не стесняйся писать и задавать вопросы. Удачи! 
+> **Спасибо, что заглянул!** Хочешь обсудить проект или поделиться идеей? Пиши, я всегда открыта к новым возможностям и сотрудничеству! 
