@@ -52,6 +52,3 @@
 ---
 
 > **Спасибо, что заглянул!** Хочешь обсудить проект или поделиться идеей? Пиши, я всегда открыта к новым возможностям и сотрудничеству! 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
