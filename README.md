@@ -3,8 +3,6 @@
 ## О себе
 Я — фронтенд-разработчик с фокусом на **React**, **TypeScript** и **Next.js**. Создаю производительные и удобные веб-приложения, уделяя внимание UX и оптимизации. Благодаря навыкам **FrontOps** (CI/CD, Docker, Nginx) я ускоряю доставку приложений в продакшен и эффективно взаимодействую с DevOps-командами. Постоянно учусь и внедряю лучшие практики, чтобы мои проекты были надежными и масштабируемыми.
 
-✨ **Моя цель**: создавать интерфейсы, которые радуют пользователей и решают бизнес-задачи.
-
 ---
 
 ## Фронтенд-разработка
@@ -18,8 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="60" height="60" />
 </p>
-
-Я специализируюсь на создании современных веб-приложений с использованием **React**, **TypeScript** и **Next.js**. Моя цель — интуитивные интерфейсы с акцентом на UX и производительность.
 
 - **Основной стек**: React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), React Router.
 - **Стилизация**: Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.
