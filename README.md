@@ -5,21 +5,29 @@
 
 ---
 
-## Фронтенд-разработка
+### Технологический стек
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB" alt="React" height="20" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6&color=3178C6" alt="TypeScript" height="20" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E" alt="JavaScript" height="20" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=000000&color=000000" alt="Next.js" height="20" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC" alt="Redux" height="20" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&labelColor=CC6699&color=CC6699" alt="Sass" height="20" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&labelColor=C21325&color=C21325" alt="Jest" height="20" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB" alt="React" height="15" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6&color=3178C6" alt="TypeScript" height="15" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E" alt="JavaScript" height="15" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=000000&color=000000" alt="Next.js" height="15" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=764ABC" alt="Redux" height="15" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&labelColor=CC6699&color=CC6699" alt="Sass" height="15" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white&labelColor=C21325&color=C21325" alt="Jest" height="15" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED" alt="Docker" height="15" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032" alt="Git" height="15" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=8DD6F9" alt="Webpack" height="15" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=339933" alt="Node.js" height="15" />
 </p>
 
-- **Основной стек**: React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), React Router.
-- **Стилизация**: Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.
+- **Фронтенд**: React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), React Router, Sass, Tailwind CSS, Styled-Components, Material-UI, Ant Design.
 - **Тестирование**: Jest, React Testing Library (unit, integration, E2E).
+- **FrontOps / DevOps**: Docker, GitLab CI/CD, Nginx, Certbot (SSL), VPS setup.
+- **Инструменты разработки**: Webpack, Vite, ESLint, Prettier, Git.
+- **Бэкенд (базово)**: Node.js, Express, MongoDB.
+- **Дополнительно**: Module Federation, Single SPA, MobX, Hapi.
+- **Методологии**: Agile, Scrum.
 
 ---
 
@@ -44,23 +52,6 @@
 - Демонстрировала самообучение, внедряя сложные технологии (PWA, Module Federation) и лучшие практики, сокращая время на доработку кода.
 
 ---  
-
-## FrontOps и дополнительные навыки
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED" alt="Docker" height="20" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032" alt="Git" height="20" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white&labelColor=8DD6F9&color=8DD6F9" alt="Webpack" height="20" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=339933" alt="Node.js" height="20" />
-</p>
-
-- **FrontOps / DevOps**: Docker, GitLab CI/CD, Nginx, Certbot (SSL), VPS setup.
-- **Инструменты разработки**: Webpack, Vite, ESLint, Prettier, Git.
-- **Бэкенд (базово)**: Node.js, Express, MongoDB.
-- **Дополнительно**: Module Federation, Single SPA, MobX, Hapi.
-- **Методологии**: Agile, Scrum.
-
----
 
 ## Мои контакты и соцсети
 
