@@ -55,7 +55,7 @@
 
 ## Мои контакты и соцсети
 
-- [Telegram](@anastasiya_guryanova)  
+- [Telegram](https://t.me/anastasiya_guryanova)  
 - [Почта](mailto:anastasia.gurianova.dev@mail.ru)
 
 ---
