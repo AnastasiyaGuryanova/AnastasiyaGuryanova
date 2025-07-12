@@ -55,7 +55,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 
 ## Мои контакты и соцсети
 
-- [Telegram](https://t.me/anastasiya_guryanova)  
+- [Telegram](https://t.me/anastasiya_guryanova){:target="_blank"} 
 - [Почта](mailto:anastasia.gurianova.dev@mail.ru)
 
 ---
