@@ -23,7 +23,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 - **Тестирование**: Jest, React Testing Library (unit, integration, E2E).
 - **FrontOps / DevOps**: Docker, GitLab CI/CD, Nginx, Certbot (SSL), VPS setup.
 - **Инструменты разработки**: Webpack, Vite, ESLint, Prettier, Git.
-- **Бэкенд (базово)**: Node.js, Express, MongoDB.
+- **Бэкенд (базово)**: Node.js, Express, MongoDB, SQL, Redis.
 - **Дополнительно**: Module Federation, Single SPA, MobX, Hapi.
 - **Методологии**: Agile, Scrum.
 
