@@ -56,3 +56,36 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 
 - [Telegram](https://t.me/anastasiya_guryanova)
 - [Почта](mailto:anastasia.gurianova.dev@mail.ru)
+
+  ---  
+
+<div display="flex" alignItems="start">
+  <a href="https://github.com/AnastasiyaGuryanova">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Profile statistics" width="49.7%" height="auto">
+  </a>
+  <a href="https://github.com/AnastasiyaGuryanova">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Data on commits per day" width="49.7%" height="auto">
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/AnastasiyaGuryanova">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Profile card" width="100%" height="auto">
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/AnastasiyaGuryanova">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnastasiyaGuryanova&theme=radical&hide_border=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+  </a>
+</div>
+
+<div display="flex" alignItems="start">
+  <a href="https://github.com/AnastasiyaGuryanova">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaGuryanova&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
+  </a>
+  <a href="https://github.com/AnastasiyaGuryanova">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="GitHub Streak" width="49.7%" height="auto">
+  </a>
+</div>
+
