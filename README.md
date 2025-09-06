@@ -46,7 +46,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 - **Автоматизировала задачи Git**: Выполнила rebase, cherry-pick и патчи для оптимизации истории коммитов, обеспечив линейную историю и упрощенное управление версиями.
 
 **Ключевые достижения**:  
-- Реализовала 10+ проектов, эквивалентных коммерческим задачам, с фокусом на UX, производительность и безопасность, решая бизнес-задачи по привлечению и удержанию пользователей.  
+- Реализовала 10+ проектов, с фокусом на UX, производительность и безопасность, решая бизнес-задачи по привлечению и удержанию пользователей.  
 - Освоила современные практики **FrontOps** (CI/CD, Docker) и методологии **Agile/Scrum**, что позволяет эффективно интегрироваться в командную разработку
 - Демонстрировала самообучение, внедряя сложные технологии (PWA, Module Federation) и лучшие практики, сокращая время на доработку кода.
 
@@ -71,12 +71,6 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 <div>
   <a href="https://github.com/AnastasiyaGuryanova">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Profile card" width="100%" height="auto">
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/AnastasiyaGuryanova">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnastasiyaGuryanova&theme=radical&hide_border=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
   </a>
 </div>
 
