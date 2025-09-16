@@ -70,7 +70,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 
 <div>
   <a href="https://github.com/AnastasiyaGuryanova">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" height="auto">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Profile card" width="100%" height="auto">
   </a>
 </div>
 
@@ -79,7 +79,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaGuryanova&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
   </a>
   <a href="https://github.com/AnastasiyaGuryanova">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Profile card" width="49.7%" height="auto">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="GitHub Streak" width="49.7%" height="auto">
   </a>
 </div>
 
