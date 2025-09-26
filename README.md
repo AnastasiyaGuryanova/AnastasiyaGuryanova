@@ -19,13 +19,28 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933&color=339933" alt="Node.js" height="30" />
 </p>
 
-- **Фронтенд**: React, TypeScript, JavaScript (ES6+), Next.js (SSR, App Router), Redux (Toolkit, RTK Query), React Router, Sass, Tailwind CSS, Styled-Components, Material-UI, Mantine, Ant Design, Chakra, HeroUI.
-- **Тестирование**: Jest, React Testing Library (unit, integration, E2E).
-- **FrontOps / DevOps**: Docker, GitLab CI/CD, Nginx, Certbot (SSL), VPS setup.
-- **Инструменты разработки**: Webpack, Vite, ESLint, Prettier, Git.
-- **Бэкенд (базово)**: Node.js, Express, MongoDB, SQL, PostgreSQL, Redis.
-- **Дополнительно**: Module Federation, Single SPA, MobX, Hapi.
-- **Методологии**: Agile, Scrum.
+- **Фронтенд**  
+  React, Next.js (SSR, App Router), Redux (Toolkit, RTK Query), React Router  
+  TypeScript, JavaScript (ES6+)  
+  CSS: Sass, Tailwind CSS, Styled-Components, Material-UI, Mantine, Ant Design, Chakra, HeroUI  
+
+- **Тестирование**  
+  Jest, React Testing Library (unit, integration, E2E)  
+
+- **FrontOps / DevOps**  
+  Docker, GitLab CI/CD, Nginx, Certbot (SSL), VPS setup  
+
+- **Инструменты разработки**  
+  Webpack, Vite, ESLint, Prettier, Git  
+
+- **Бэкенд (базово)**  
+  Node.js, Express, MongoDB, SQL, PostgreSQL, Redis  
+
+- **Дополнительно**  
+  Module Federation, Single SPA, MobX, Hapi  
+
+- **Методологии**  
+  Agile, Scrum
 
 ---
 
