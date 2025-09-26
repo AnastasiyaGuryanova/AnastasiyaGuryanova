@@ -20,7 +20,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 </p>
 
 - **Фронтенд**  
-  React, Next.js (SSR, App Router), Redux (Toolkit, RTK Query), React Router  
+  React, Next.js (SSR, App Router), Redux (Toolkit, RTK Query), Zustand, MobX, React Router  
   TypeScript, JavaScript (ES6+)  
   CSS: Sass, Tailwind CSS, Styled-Components, Material-UI, Mantine, Ant Design, Chakra, HeroUI  
 
@@ -37,7 +37,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
   Node.js, Express, MongoDB, SQL, PostgreSQL, Redis  
 
 - **Дополнительно**  
-  Module Federation, Single SPA, MobX, Hapi  
+  Module Federation, Single SPA, Hapi  
 
 - **Методологии**  
   Agile, Scrum
