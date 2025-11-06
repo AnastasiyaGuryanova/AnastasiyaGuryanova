@@ -22,7 +22,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 - **Фронтенд**  
   React, Next.js (SSR, App Router), Redux (Toolkit, RTK Query), Zustand, MobX, React Router  
   TypeScript, JavaScript (ES6+)  
-  CSS: Sass, Tailwind CSS, Styled-Components, Material-UI, Mantine, Ant Design, Chakra, HeroUI  
+  CSS: SCSS, Tailwind CSS, Styled-Components, Material-UI, Mantine, Ant Design, Chakra, HeroUI  
 
 - **Тестирование**  
   Jest, React Testing Library (unit, integration, E2E)  
