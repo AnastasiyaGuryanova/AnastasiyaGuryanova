@@ -66,12 +66,12 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
   </a>
 </div>
 
-<div display="flex" alignItems="start">
+<!-- <div display="flex" alignItems="start">
   <a href="https://github.com/AnastasiyaGuryanova">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaGuryanova&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
   </a>
   <a href="https://github.com/AnastasiyaGuryanova">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="GitHub Streak" width="49.7%" height="auto">
   </a>
-</div>
+</div> -->
 
