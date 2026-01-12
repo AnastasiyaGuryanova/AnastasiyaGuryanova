@@ -51,7 +51,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
 
   ---  
 
-<div display="flex" alignItems="start">
+<!-- <div display="flex" alignItems="start">
   <a href="https://github.com/AnastasiyaGuryanova">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Profile statistics" width="49.7%" height="auto">
   </a>
@@ -64,7 +64,7 @@ Frontend-разработчик с фокусом на **React**, **TypeScript**
   <a href="https://github.com/AnastasiyaGuryanova">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiyaGuryanova&theme=radical&hide_border=true" alt="Profile card" width="100%" height="auto">
   </a>
-</div>
+</div> -->
 
 <!-- <div display="flex" alignItems="start">
   <a href="https://github.com/AnastasiyaGuryanova">
